@@ -13,13 +13,13 @@ Simple fire alarm system with the following components:
 -Left   -> 5V
 -Middle -> A0
 -Right  -> GND
-4.Green LED pins:
+4. Green LED pins:
 -Anode   -> resistor -> pin 7
 -Cathode -> GND
-5.Red LED pins:
+5. Red LED pins:
 -Anode   -> resistor -> pin 6
 -Cathode -> GND
-6.Piezo pins:
+6. Piezo pins:
 + -> pin 8
 - -> GND
-7.Replace the text code with the code in alarm.ino
+7. Replace the text code with the code in alarm.ino
