@@ -17,7 +17,7 @@ void loop()
   float voltage = value * 5.0 / 1023.0;
   float temp = (voltage - 0.5) * 100.0;
 
-  if(temp > 40)
+  if(temp > 50)
   {
     digitalWrite(redLed, HIGH);
     digitalWrite(greenLed, LOW);
